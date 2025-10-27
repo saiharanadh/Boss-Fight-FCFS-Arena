@@ -1,2 +1,32 @@
-# Boss-Fight-FCFS-Arena
-A Java Swing-based FCFS CPU Scheduling Visualizer reimagined as an epic Boss Fight Arena where processes become players battling for CPU time!
+# FCFS-BossFight
+A **Java Swing-based animation** that visualizes the **First Come First Serve (FCFS)** CPU scheduling algorithm — but with a twist!  
+Here, each *process* is a **player** entering a *Boss Fight Arena*. The CPU becomes the battleground where they fight, rest, and emerge victorious.
+
+---
+
+##  Features
+
+- Implements FCFS CPU scheduling algorithm  
+- Real-time animation of process movement  
+- Displays **AT**, **BT**, **CT**, **TAT**, **WT**, **RT** with averages  
+- Gamified theme: “Players in Lobby”, “Boss Fight”, “Players Won”  
+- Dynamic time counter during execution  
+
+---
+
+## Requirements
+
+- **Java JDK 8 or later**
+- Works on **Windows / macOS / Linux**
+- IDE: IntelliJ IDEA, Eclipse, or run via terminal
+
+---
+
+## How to Run
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/saiharanadh/FCFS-BossFight.git
+2. **Navigate to the project**
+   cd FCFS-BossFight/src
+3.**Compile and Run the code**
