@@ -1,4 +1,4 @@
-# FCFS-BossFight
+# FCFS-Boss-Fight-Visualizer
 A **Java Swing-based animation** that visualizes the **First Come First Serve (FCFS)** CPU scheduling algorithm — but with a twist!  
 Here, each *process* is a **player** entering a *Boss Fight Arena*. The CPU becomes the battleground where they fight, rest, and emerge victorious.
 
@@ -26,7 +26,7 @@ Here, each *process* is a **player** entering a *Boss Fight Arena*. The CPU beco
 
 1. **Clone the repository**
    ```bash
-   https://github.com/saiharanadh/FCFS-BossFight.git
+  https://github.com/saiharanadh/FCFS-BossFight-Visualizer.git
 2. **Navigate to the project**
    cd FCFS-BossFight/src
    
