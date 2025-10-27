@@ -28,6 +28,6 @@ Here, each *process* is a **player** entering a *Boss Fight Arena*. The CPU beco
    ```bash
    https://github.com/saiharanadh/Boss-Fight-FCFS-Arena.git
 2. **Navigate to the project**
-   cd FCFS-BossFight/src
+   cd FCFS-Boss-Fight-Visualizer
    
 3.**Compile and Run the code**
