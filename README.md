@@ -26,7 +26,7 @@ Here, each *process* is a **player** entering a *Boss Fight Arena*. The CPU beco
 
 1. **Clone the repository**
    ```bash
-  https://github.com/saiharanadh/FCFS-BossFight-Visualizer.git
+   https://github.com/saiharanadh/FCFS-BossFight-Visualizer.git
 2. **Navigate to the project**
    cd FCFS-BossFight/src
    
